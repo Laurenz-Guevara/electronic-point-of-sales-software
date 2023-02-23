@@ -1,0 +1,65 @@
+C:\Users\Laurenz\Desktop\Computer Science A2\Software\Electronic Point Of Sales\Electronic Point Of Sales\bin\Debug\Electronic Point Of Sales.exe.config
+C:\Users\Laurenz\Desktop\Computer Science A2\Software\Electronic Point Of Sales\Electronic Point Of Sales\bin\Debug\Electronic Point Of Sales.exe
+C:\Users\Laurenz\Desktop\Computer Science A2\Software\Electronic Point Of Sales\Electronic Point Of Sales\bin\Debug\Electronic Point Of Sales.pdb
+C:\Users\Laurenz\Desktop\Computer Science A2\Software\Electronic Point Of Sales\Electronic Point Of Sales\obj\Debug\Electronic Point Of Sales.csprojResolveAssemblyReference.cache
+C:\Users\Laurenz\Desktop\Computer Science A2\Software\Electronic Point Of Sales\Electronic Point Of Sales\obj\Debug\Electronic_Point_Of_Sales.loginScreen.resources
+C:\Users\Laurenz\Desktop\Computer Science A2\Software\Electronic Point Of Sales\Electronic Point Of Sales\obj\Debug\Electronic_Point_Of_Sales.Properties.Resources.resources
+C:\Users\Laurenz\Desktop\Computer Science A2\Software\Electronic Point Of Sales\Electronic Point Of Sales\obj\Debug\Electronic Point Of Sales.csproj.GenerateResource.Cache
+C:\Users\Laurenz\Desktop\Computer Science A2\Software\Electronic Point Of Sales\Electronic Point Of Sales\obj\Debug\Electronic Point Of Sales.exe
+C:\Users\Laurenz\Desktop\Computer Science A2\Software\Electronic Point Of Sales\Electronic Point Of Sales\obj\Debug\Electronic Point Of Sales.pdb
+C:\Users\Laurenz\Desktop\Computer Science A2\Software\Electronic Point Of Sales\Electronic Point Of Sales\bin\Debug\MySql.Data.dll
+C:\Users\Laurenz\Desktop\Computer Science A2\Software\Electronic Point Of Sales\Electronic Point Of Sales\bin\Debug\MySql.Data.xml
+C:\Users\Laurenz\Desktop\Computer Science A2\Software\Electronic Point Of Sales\Electronic Point Of Sales\obj\Debug\Electronic_Point_Of_Sales.mainMenu.resources
+C:\Users\Laurenz\Desktop\Computer Science A2\BACKUP\Electronic Point Of Sales v4\Electronic Point Of Sales\bin\Debug\Electronic Point Of Sales.exe.config
+C:\Users\Laurenz\Desktop\Computer Science A2\BACKUP\Electronic Point Of Sales v4\Electronic Point Of Sales\obj\Debug\Electronic Point Of Sales.exe
+C:\Users\Laurenz\Desktop\Computer Science A2\BACKUP\Electronic Point Of Sales v4\Electronic Point Of Sales\obj\Debug\Electronic Point Of Sales.pdb
+C:\Users\Laurenz\Desktop\Computer Science A2\BACKUP\Electronic Point Of Sales v4\Electronic Point Of Sales\bin\Debug\Electronic Point Of Sales.exe
+C:\Users\Laurenz\Desktop\Computer Science A2\BACKUP\Electronic Point Of Sales v4\Electronic Point Of Sales\bin\Debug\Electronic Point Of Sales.pdb
+C:\Users\Laurenz\Desktop\Computer Science A2\BACKUP\Electronic Point Of Sales v4\Electronic Point Of Sales\bin\Debug\MySql.Data.dll
+C:\Users\Laurenz\Desktop\Computer Science A2\BACKUP\Electronic Point Of Sales v4\Electronic Point Of Sales\bin\Debug\MySql.Data.xml
+C:\Users\Laurenz\Desktop\Computer Science A2\BACKUP\Electronic Point Of Sales v4\Electronic Point Of Sales\obj\Debug\Electronic Point Of Sales.csprojResolveAssemblyReference.cache
+C:\Users\Laurenz\Desktop\Computer Science A2\BACKUP\Electronic Point Of Sales v4\Electronic Point Of Sales\obj\Debug\Electronic_Point_Of_Sales.mainMenu.resources
+C:\Users\Laurenz\Desktop\Computer Science A2\BACKUP\Electronic Point Of Sales v4\Electronic Point Of Sales\obj\Debug\Electronic_Point_Of_Sales.loginScreen.resources
+C:\Users\Laurenz\Desktop\Computer Science A2\BACKUP\Electronic Point Of Sales v4\Electronic Point Of Sales\obj\Debug\Electronic_Point_Of_Sales.Properties.Resources.resources
+C:\Users\Laurenz\Desktop\Computer Science A2\BACKUP\Electronic Point Of Sales v4\Electronic Point Of Sales\obj\Debug\Electronic Point Of Sales.csproj.GenerateResource.Cache
+C:\Users\Laurenz\Desktop\Computer Science A2\Software\Electronic Point Of Sales\Electronic Point Of Sales\obj\Debug\Electronic_Point_Of_Sales.settingsScreen.resources
+C:\Users\laure\Desktop\Computer Science A2\Software\Electronic Point Of Sales\Electronic Point Of Sales\bin\Debug\Electronic Point Of Sales.exe.config
+C:\Users\laure\Desktop\Computer Science A2\Software\Electronic Point Of Sales\Electronic Point Of Sales\bin\Debug\Electronic Point Of Sales.exe
+C:\Users\laure\Desktop\Computer Science A2\Software\Electronic Point Of Sales\Electronic Point Of Sales\bin\Debug\Electronic Point Of Sales.pdb
+C:\Users\laure\Desktop\Computer Science A2\Software\Electronic Point Of Sales\Electronic Point Of Sales\bin\Debug\MySql.Data.xml
+C:\Users\laure\Desktop\Computer Science A2\Software\Electronic Point Of Sales\Electronic Point Of Sales\obj\Debug\Electronic Point Of Sales.csprojResolveAssemblyReference.cache
+C:\Users\laure\Desktop\Computer Science A2\Software\Electronic Point Of Sales\Electronic Point Of Sales\obj\Debug\Electronic_Point_Of_Sales.settingsScreen.resources
+C:\Users\laure\Desktop\Computer Science A2\Software\Electronic Point Of Sales\Electronic Point Of Sales\obj\Debug\Electronic_Point_Of_Sales.mainMenu.resources
+C:\Users\laure\Desktop\Computer Science A2\Software\Electronic Point Of Sales\Electronic Point Of Sales\obj\Debug\Electronic_Point_Of_Sales.loginScreen.resources
+C:\Users\laure\Desktop\Computer Science A2\Software\Electronic Point Of Sales\Electronic Point Of Sales\obj\Debug\Electronic_Point_Of_Sales.Properties.Resources.resources
+C:\Users\laure\Desktop\Computer Science A2\Software\Electronic Point Of Sales\Electronic Point Of Sales\obj\Debug\Electronic Point Of Sales.csproj.GenerateResource.Cache
+C:\Users\laure\Desktop\Computer Science A2\Software\Electronic Point Of Sales\Electronic Point Of Sales\obj\Debug\Electronic Point Of Sales.csproj.CoreCompileInputs.cache
+C:\Users\laure\Desktop\Computer Science A2\Software\Electronic Point Of Sales\Electronic Point Of Sales\obj\Debug\Electronic Point Of Sales.exe
+C:\Users\laure\Desktop\Computer Science A2\Software\Electronic Point Of Sales\Electronic Point Of Sales\obj\Debug\Electronic Point Of Sales.pdb
+C:\Users\laure\Desktop\Computer Science A2\Software\Electronic Point Of Sales\Electronic Point Of Sales\bin\Debug\Electronic Point Of Sales.exe.manifest
+C:\Users\laure\Desktop\Computer Science A2\Software\Electronic Point Of Sales\Electronic Point Of Sales\bin\Debug\Electronic Point Of Sales.application
+C:\Users\laure\Desktop\Computer Science A2\Software\Electronic Point Of Sales\Electronic Point Of Sales\obj\Debug\Electronic Point Of Sales.TrustInfo.xml
+C:\Users\laure\Desktop\Computer Science A2\Software\Electronic Point Of Sales\Electronic Point Of Sales\obj\Debug\Electronic Point Of Sales.exe.manifest
+C:\Users\laure\Desktop\Computer Science A2\Software\Electronic Point Of Sales\Electronic Point Of Sales\obj\Debug\Electronic Point Of Sales.application
+C:\Users\laure\Desktop\Computer Science A2\Software\Electronic Point Of Sales\Electronic Point Of Sales\obj\Debug\Electronic_Point_Of_Sales.orderScreen.resources
+C:\Users\laure\Desktop\epos\Computer Science A2\Software\Electronic Point Of Sales\Electronic Point Of Sales\obj\Debug\Electronic Point Of Sales.csproj.AssemblyReference.cache
+C:\Users\laure\Desktop\epos\Computer Science A2\Software\Electronic Point Of Sales\Electronic Point Of Sales\obj\Debug\Electronic Point Of Sales.csproj.SuggestedBindingRedirects.cache
+C:\Users\laure\Desktop\epos\Computer Science A2\Software\Electronic Point Of Sales\Electronic Point Of Sales\obj\Debug\Electronic_Point_Of_Sales.orderScreen.resources
+C:\Users\laure\Desktop\epos\Computer Science A2\Software\Electronic Point Of Sales\Electronic Point Of Sales\obj\Debug\Electronic_Point_Of_Sales.settingsScreen.resources
+C:\Users\laure\Desktop\epos\Computer Science A2\Software\Electronic Point Of Sales\Electronic Point Of Sales\obj\Debug\Electronic_Point_Of_Sales.mainMenu.resources
+C:\Users\laure\Desktop\epos\Computer Science A2\Software\Electronic Point Of Sales\Electronic Point Of Sales\obj\Debug\Electronic_Point_Of_Sales.loginScreen.resources
+C:\Users\laure\Desktop\epos\Computer Science A2\Software\Electronic Point Of Sales\Electronic Point Of Sales\obj\Debug\Electronic_Point_Of_Sales.Properties.Resources.resources
+C:\Users\laure\Desktop\epos\Computer Science A2\Software\Electronic Point Of Sales\Electronic Point Of Sales\obj\Debug\Electronic Point Of Sales.csproj.GenerateResource.cache
+C:\Users\laure\Desktop\epos\Computer Science A2\Software\Electronic Point Of Sales\Electronic Point Of Sales\obj\Debug\Electronic Point Of Sales.csproj.CoreCompileInputs.cache
+C:\Users\laure\Desktop\epos\Computer Science A2\Software\Electronic Point Of Sales\Electronic Point Of Sales\obj\Debug\Electronic Point Of Sales.TrustInfo.xml
+C:\Users\laure\Desktop\epos\Computer Science A2\Software\Electronic Point Of Sales\Electronic Point Of Sales\obj\Debug\Electronic Point Of Sales.exe
+C:\Users\laure\Desktop\epos\Computer Science A2\Software\Electronic Point Of Sales\Electronic Point Of Sales\obj\Debug\Electronic Point Of Sales.pdb
+C:\Users\laure\Desktop\epos\Computer Science A2\Software\Electronic Point Of Sales\Electronic Point Of Sales\bin\Debug\Electronic Point Of Sales.exe.config
+C:\Users\laure\Desktop\epos\Computer Science A2\Software\Electronic Point Of Sales\Electronic Point Of Sales\bin\Debug\Electronic Point Of Sales.exe.manifest
+C:\Users\laure\Desktop\epos\Computer Science A2\Software\Electronic Point Of Sales\Electronic Point Of Sales\bin\Debug\Electronic Point Of Sales.application
+C:\Users\laure\Desktop\epos\Computer Science A2\Software\Electronic Point Of Sales\Electronic Point Of Sales\bin\Debug\Electronic Point Of Sales.exe
+C:\Users\laure\Desktop\epos\Computer Science A2\Software\Electronic Point Of Sales\Electronic Point Of Sales\bin\Debug\Electronic Point Of Sales.pdb
+C:\Users\laure\Desktop\epos\Computer Science A2\Software\Electronic Point Of Sales\Electronic Point Of Sales\bin\Debug\MySql.Data.xml
+C:\Users\laure\Desktop\epos\Computer Science A2\Software\Electronic Point Of Sales\Electronic Point Of Sales\obj\Debug\Electronic Point Of Sales.exe.manifest
+C:\Users\laure\Desktop\epos\Computer Science A2\Software\Electronic Point Of Sales\Electronic Point Of Sales\obj\Debug\Electronic Point Of Sales.application
+C:\Users\laure\Desktop\epos\Computer Science A2\Software\Electronic Point Of Sales\Electronic Point Of Sales\obj\Debug\Electronic Point Of Sales.csproj.CopyComplete
