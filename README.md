@@ -31,7 +31,7 @@ With a mySQL database managed with phpMyAdmin on CPanel.
   <img src="https://user-images.githubusercontent.com/58118627/221341771-477cb3e3-6f2c-46a5-8f83-c3cacfc882f2.png" width="49%"/> 
 </p>
 
-## mySQL Server - AES Encrypted Accounts
+## mySQL Database - AES Encrypted Passwords
 <p align="center">
   <img src="https://user-images.githubusercontent.com/58118627/221341963-98a941ab-413d-4334-b1b6-9f6a69db5ad7.png" width="49%"/> 
   <img src="https://user-images.githubusercontent.com/58118627/221341986-7b667809-1734-43a5-8ec2-daad2320667c.png" width="49%"/> 
