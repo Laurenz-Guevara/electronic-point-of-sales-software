@@ -23,8 +23,6 @@ Interactable interfaces built with Windows Form Application,
 Stock dashboards and insights. When an order is complete, the ingredients is then deducted from the stock count.
 With a mySQL database managed with phpMyAdmin on CPanel.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ### Built Using
 
 * Windows Form Application
